@@ -1,3 +1,7 @@
+import * as Cesium from 'cesium'
+import 'cesium/Build/Cesium/Widgets/widgets.css'
+Cesium.Ion.defaultAccessToken = import.meta.env.VITE_CESIUM_TOKEN
+const viewer = new Cesium.Viewer('cesiumContainer')
 import './style.css'
 import heroImg from './assets/hero.png'
 import javascriptLogo from './assets/javascript.svg'
