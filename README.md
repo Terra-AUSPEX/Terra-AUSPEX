@@ -14,13 +14,6 @@
 
 </div>
 
----
-
-> ### 🔭 *"Auspex"*
-> In the world of Warhammer 40,000, an **Auspex** is a scanning device that reveals what lies hidden beyond ordinary sight.
-> **Terra Auspex** brings that idea to Earth observation — piercing the clouds to reveal the ground truth below, in real satellite data.
-
----
 
 ## 🌍 What Is This?
 
